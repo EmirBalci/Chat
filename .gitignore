@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/Chat/.vs/Chat/v16/Server/sqlite3/db.lock
+/Chat/.vs/Chat/v16/Server/sqlite3/storage.ide
+/Chat/.vs/Chat/v16/Server/sqlite3/storage.ide-shm
+/Chat/.vs/Chat/v16/Server/sqlite3/storage.ide-wal
